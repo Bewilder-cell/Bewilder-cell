@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ☹️键盘撒米☹️鸡写前端☹️
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bewilder-cell&theme=dark&layout=compact)
-
+![](https://activity-graph.herokuapp.com/graph?username=Bewilder-cell&theme=github)
