@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bewilder-cell&theme=dark&layout=compact)
 # 前端2023年有感而发
+  **内卷  **前端已死 **找不到工作 **被裁
+  
