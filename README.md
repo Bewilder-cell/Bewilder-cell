@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 ☹️键盘撒米☹️鸡写前端☹️
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bewilder-cell&theme=dark&layout=compact)
+![亮色](https://raw.githubusercontent.com/Bewilder-cell/Bewilder-cell/output/github-contribution-grid-snake.svg)
 
+
+![暗色](https://raw.githubusercontent.com/Bewilder-cell/Bewilder-cell/output/github-contribution-grid-snake-dark.svg)
   
