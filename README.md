@@ -1,9 +1,9 @@
 
 
 <h1 align="center">
- <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);谈老板打工的一天!&center=true&size=27"> </a>
+ <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=周大哥辛苦了;谈老板打工的一天!&center=true&size=27"> </a>
 </h1>
-### Hi there 👋
+ <h2 align="center"> ◕ ◡ ◕ っ ☹️键盘撒米☹️鸡写前端☹️</h2>
 
  <!--
 **Bewilder-cell/Bewilder-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,13 +19,97 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ◕ ◡ ◕ っ 
-☹️键盘撒米☹️鸡写前端☹️
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bewilder-cell&theme=dark&layout=compact)
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+</p>
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+```text
+🌞 Morning                548 commits         ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
+🌆 Daytime                704 commits         ████████░░░░░░░░░░░░░░░░░   32.04 % 
+🌃 Evening                641 commits         ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+🌙 Night                  304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   261 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Tuesday                  195 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Wednesday                310 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Thursday                 258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Friday                   662 commits         ████████░░░░░░░░░░░░░░░░░   30.13 % 
+Saturday                 187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Sunday                   324 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+```
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bewilder-cell/Bewilder-cell/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bewilder-cell/Bewilder-cell/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bewilder-cell/Bewilder-cell/output/github-contribution-grid-snake.svg">
 </picture>
+
+```mermaid
+mindmap
+  root((你的谈老板))
+    编程
+      Web开发
+      QT
+      Java
+    摄影
+      风光
+    旅行
+      南京
+      上海
+      温州
+      温岭
+      杭州
+      绍兴
+    阅读
+      人物传记
+      个人成长
+      社会文化
+      计算机技术
+```
+
+<!--  skill badge 技能徽章 -->
+
+ <p align="center">
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+ </p>
+<h3  align="center">💪 正在学习</h3>
+<div align="center" >
+ 
+ ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
+![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
+![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
+
+</div>
+
+
+<h3  align="center"> 🧠 计划学习</h3>
+<div align="center" >
+ 
+![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
+![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
+![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
+![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
+![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
+
+</div>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bewilder-cell&theme=dark&layout=compact" />
+</p>
+ -->
