@@ -1,5 +1,5 @@
 
- <h1 align="center">周总好</h1>
+ <h1 align="center">周总在干.net</h1>
 <h1 align="center">
  <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=周大哥辛苦了;🙀键盘撒米，鸡写前端😂&center=true&size=27"> </a>
 </h1>
@@ -96,7 +96,6 @@ mindmap
 
 <h3  align="center"> 🧠 计划学习</h3>
 <div align="center" >
- <h3>在干.net</h3>
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
